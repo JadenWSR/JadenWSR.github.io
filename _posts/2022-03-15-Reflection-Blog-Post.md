@@ -14,6 +14,7 @@ In this Blog Post, we will write a brief reflection on the experience of complet
 
 Our project will try to find an answer to the following question:
 **Given permission of camera access, what information can we obtain from facial recognition and how can we potentially make use of that information?**
+
 Overall, our project focus on facial emotion recognition and recommendations based on the detected emotion. More specifically, we will train a model that is able to classify the emotion of human faces detected in an uploaded photo and make the whole process interactive through implementation on our webpage.
 
 Here is our project [Github Link](https://github.com/leozhang233/PIC16B-PROJECT). You can find detailed instructions on how to run our Webapp and what to expect here.
